@@ -8,6 +8,6 @@
 <br>
 <li>Home Page</li>
 <p>In this page, you can see all campgrounds after login!</p>
-<img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/URb9Os1ga2eBVDLq0xTfLCjFK8grdshtVpapdEuQl0o!/b/dL8AAAAAAAAA&bo=7AjwAwAAAAADBzU!&rf=viewer_4" width=40%>
+<img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/URb9Os1ga2eBVDLq0xTfLCjFK8grdshtVpapdEuQl0o!/b/dL8AAAAAAAAA&bo=7AjwAwAAAAADBzU!&rf=viewer_4" width=60%>
 
   
